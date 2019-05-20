@@ -1,5 +1,11 @@
 # spacechallenge
-In this project, you will build a simulation that will help us with our mission to Mars!
+
+Another project from the Udacity OOP Java course.
+For me the ephasise was to get more experience with Java as a language and experiences more program design - there is also a little bit of tail recursion going on.....
+
+The blurb from Udacity explains the purpose better than I.......
+
+"In this project, you will build a simulation that will help us with our mission to Mars!
 
 The mission is to send a list of items (Habitats, bunkers, food supplies, and rovers) to Mars, but we need to run some simulations first to pick the correct fleet of rockets.
 
@@ -21,4 +27,4 @@ Phase-2:
 This phase is meant to send the colony of humans along with some food resources. In the resources tab, you will find a text file that contains the list of all items that we need to send called 'Phase-2.txt`. Each line in the file also contains the item name and its weight in Kgs.
 
 
-Your job is to run some simulations and test both rocket types for each phase separately.
+Your job is to run some simulations and test both rocket types for each phase separately."
